@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: O projekcie
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Projekt *Polskie winnice* powstał ponieważ nie znalazłem podobnego spisu w internecie. Postanowiłem zrobić własny.
+
+Zacznij tutaj: [[Polskie winnice/Lista winnic]].
+
+Paweł
