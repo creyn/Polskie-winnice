@@ -1,0 +1,6 @@
+---
+typ: winnica
+---
+
+Strona: 
+Adres:
